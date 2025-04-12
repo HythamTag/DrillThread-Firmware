@@ -61,7 +61,7 @@ cnc-drilling-controller/
 - 16x2 or 20x4 I2C LCD Display
 - Stepper Motors & Drivers (A4988, DRV8825, etc.)
 - External Power Supply
-- User Input (Buttons / Rotary Encoder)
+- User Input Buttons
 
 ---
 
