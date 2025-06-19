@@ -98,9 +98,3 @@ cnc-drilling-controller/
 ## 🤝 Contributions
 
 Pull requests and feedback are welcome! Please fork and suggest improvements.
-
----
-
-## 📜 License
-
-MIT License © 2025 Hytham Tag
